@@ -11,4 +11,6 @@ Washtenaw Hotline
 
 5. As always, message and data rates may apply for any messages sent to you from us and to us from you. You will receive messages in proportion to messages sent to the hotline. If you have any questions about your text plan or data plan, it is best to contact your wireless provider.
 
-6. If you have any questions regarding privacy, please read our privacy policy: https://www.icpj.org/blog/about/
+6. If you have any questions regarding privacy, please read our privacy policy:
+
+We do not share or sell your information, guidance on other general privacy principles can be found here: https://www.icpj.org/blog/about/
